@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-09-07T21:09:43.166884+00:00",
-  "db_snapshot": "2026-09-08 02:00:02 UTC+0900 (JST)",
+  "generated_at": "2026-09-08T20:46:14.890811+00:00",
+  "db_snapshot": "2026-09-09 02:00:02 UTC+0900 (JST)",
   "source_zip": "starrydata_dataset.zip",
   "all_data": {
     "papers": {
       "filename": "all_papers.csv.gz",
-      "rows": 56716,
-      "bytes": 9526649,
-      "sha256": "ddc028b363eddcd2db4cef8d22d0ee0d43bc9d89687110524d94a0b63f1e9377"
+      "rows": 56489,
+      "bytes": 9492065,
+      "sha256": "0058e1374fccc4fd21e5fcbaf8e592aa0375243ad20c5c0abaf9250a387efbba"
     },
     "samples": {
       "filename": "all_samples.csv.gz",
-      "rows": 106005,
-      "bytes": 4708957,
-      "sha256": "ad8531969d669fd9167de5fe7f21c898e51a02bca47acf3797dee6934323256d"
+      "rows": 105999,
+      "bytes": 4710801,
+      "sha256": "bfc01f920c81f96e3a524f81a7fd8caa03f97dacf0860ee1726d3a8157c19027"
     },
     "curves": {
       "filename": "all_curves.csv.gz",
-      "rows": 236373,
-      "bytes": 43646045,
-      "sha256": "84b4f205ba496ce531718e44673096d3d9c99e513756e0929db0c64549825cb6"
+      "rows": 236367,
+      "bytes": 43650533,
+      "sha256": "e00f27d066b600f1f3e3540523b85ab68f053f55029e4cb253a6e661024a86de"
     }
   },
   "projects": {
@@ -28,59 +28,59 @@
         "filename": "AirBatteryMaterials_papers.csv.gz",
         "rows": 45,
         "bytes": 13487,
-        "sha256": "8a852d52a3b3c66effee69efa8955365dfe8e2ddc95e8f8d7cb7f353a6a3c2d2"
+        "sha256": "b4e3dac20d292ec197059452f8d7129678565bf28e1d840ee4c977117b6a93b4"
       },
       "samples": {
         "filename": "AirBatteryMaterials_samples.csv.gz",
         "rows": 529,
         "bytes": 38031,
-        "sha256": "a724601c64b63ca6c311f01e392ea4eb580f2ae332d57ba846d9c569255001a5"
+        "sha256": "be332f9797952c5b3ba25db63ad63c8c48a6e14c5285c2d83ff2df1c2b52698b"
       },
       "curves": {
         "filename": "AirBatteryMaterials_curves.csv.gz",
         "rows": 1176,
         "bytes": 225565,
-        "sha256": "0d5c6b8313752f4d0eef4ae2cd63e1df7a99ce3eff068f00dbf376b2ef728902"
+        "sha256": "a14c49e29d2dc15da391b1fd194738e859b32ae1554f3a6299b9a818326d07ee"
       }
     },
     "BatteryMaterials": {
       "papers": {
         "filename": "BatteryMaterials_papers.csv.gz",
-        "rows": 1690,
-        "bytes": 440721,
-        "sha256": "d931d690a8609d862ba2f14a9abc75d7d44865e94f1eed75ae59f945c889d5e0"
+        "rows": 1689,
+        "bytes": 440513,
+        "sha256": "e5b686a401be67138b808547bd371746a92bac1118dfde4f2e8990419c05a381"
       },
       "samples": {
         "filename": "BatteryMaterials_samples.csv.gz",
         "rows": 14087,
-        "bytes": 1032268,
-        "sha256": "8b235bba7a6831baa24b892c5fb81af75fcb20e3da7d79c141ac1c0922ce2547"
+        "bytes": 1032272,
+        "sha256": "a2d761d57583d994b28452d43fc5aa133ca78d0445eb0da1c42c8002b6a1433a"
       },
       "curves": {
         "filename": "BatteryMaterials_curves.csv.gz",
         "rows": 32586,
-        "bytes": 6703231,
-        "sha256": "4fd5e6639d1981abe5f8831d58694c8a0ebfeb3c155a340f8a3d32c1de0e7604"
+        "bytes": 6703242,
+        "sha256": "429797ad50e725728635b16563c967dc9e9b459a0e582b47cbca8eb12c7a7818"
       }
     },
     "CondensedMatter": {
       "papers": {
         "filename": "CondensedMatter_papers.csv.gz",
-        "rows": 810,
-        "bytes": 155177,
-        "sha256": "5e28539d0af284d3cc7280c3e1e7083f22b1d89a4443d7514445947ead3487e7"
+        "rows": 808,
+        "bytes": 154953,
+        "sha256": "fe8232bd0a46b3d451bf51b30a04cee606517a3f1ebeaadf55bad1c11d2057e8"
       },
       "samples": {
         "filename": "CondensedMatter_samples.csv.gz",
         "rows": 4409,
-        "bytes": 118315,
-        "sha256": "f855fd9b0f8e06a29fcbb32f62fcfb22d6895523eb0f024b21ce413adc36fad0"
+        "bytes": 118422,
+        "sha256": "c551d21bb5ed9c58c3e3d1885e7d98ae7216f21da6c3f74883470793d469c58f"
       },
       "curves": {
         "filename": "CondensedMatter_curves.csv.gz",
         "rows": 6848,
-        "bytes": 1340110,
-        "sha256": "fa12b7d57668097967c7de30914799a822403ac1de0581f7bf8240fd476ddba7"
+        "bytes": 1340225,
+        "sha256": "8842e4f018de76b916c32296c0602a9d15c160cb3b2d2bf7f200f0fadb2ab702"
       }
     },
     "DielectricMaterials": {
@@ -88,19 +88,19 @@
         "filename": "DielectricMaterials_papers.csv.gz",
         "rows": 2208,
         "bytes": 319187,
-        "sha256": "8e524defb89bd56c961ac0c3c3fe1df5ad15516d2b390e97c43daa38745d887d"
+        "sha256": "31fb239cfe783a5d5a62da6de5b4af20a73fa4fe70be2513c1477b9a8a7a7d18"
       },
       "samples": {
         "filename": "DielectricMaterials_samples.csv.gz",
         "rows": 9904,
-        "bytes": 294700,
-        "sha256": "a5130fd2873f12e100b664b95855c4ea64921188c30e0c7310a68ac4bd8f6c03"
+        "bytes": 295873,
+        "sha256": "67ab1fff196201f4e4fe5712d0967e84887e3e06e4de4ca862ebbbde2b0b3626"
       },
       "curves": {
         "filename": "DielectricMaterials_curves.csv.gz",
         "rows": 16555,
-        "bytes": 3463263,
-        "sha256": "bf38ef30633602081ad95dbaa72b07e5885e1455a9c12229a92c8eb7d373d551"
+        "bytes": 3466704,
+        "sha256": "52dfb61b716d177712e0b376ab180f9e6e36ceb02def697720ffde05648a8fa7"
       }
     },
     "GeneralDB": {
@@ -108,19 +108,19 @@
         "filename": "GeneralDB_papers.csv.gz",
         "rows": 296,
         "bytes": 60302,
-        "sha256": "a96b85a6ae4cafc5b0b2ddc208434484f46e05af3815f27d1084d93cb7705865"
+        "sha256": "c7eebd9f1f33226580135b4c7a6e6bf9c4d8c8d7a36f8cbbf07bdbab7014722a"
       },
       "samples": {
         "filename": "GeneralDB_samples.csv.gz",
         "rows": 2144,
-        "bytes": 74625,
-        "sha256": "a59fd2876822a2cbec9a4e1d3dc3d5baa5b1d6d0dd567ddbc785ba03cfe1d20e"
+        "bytes": 74629,
+        "sha256": "22d24fd6c8bc4f02268be82816f40e3d641dc9ffcf88d327a715d8d3648ac090"
       },
       "curves": {
         "filename": "GeneralDB_curves.csv.gz",
         "rows": 7516,
-        "bytes": 1043071,
-        "sha256": "d574142c6bf38b36dbe8cc0a7a95f4318a3be670e94bfe813d1f7f9dbe60f397"
+        "bytes": 1043080,
+        "sha256": "01ae7595d24f7964697cd4e90b9dcb9be374cc7ec625878421ef22a30f7c09bc"
       }
     },
     "HighThermalConductivityMaterials": {
@@ -128,19 +128,19 @@
         "filename": "HighThermalConductivityMaterials_papers.csv.gz",
         "rows": 351,
         "bytes": 59382,
-        "sha256": "0fe63264cf9e99837c46e277e1e50eae42d04f9b598be0ff66c54f7bb9e93cee"
+        "sha256": "c54420b8a993925d1e2f32f09861c833f8393bc0274550813577f416be840344"
       },
       "samples": {
         "filename": "HighThermalConductivityMaterials_samples.csv.gz",
         "rows": 1737,
-        "bytes": 50002,
-        "sha256": "000b63971a6ebf1f6c02ec20caf4d6f0e09bcd544b27cd5e7143ff264be2e15a"
+        "bytes": 50007,
+        "sha256": "1fa6bd97a399b8e0d8d466ddc86e51932d962c88b9aeae329e86685b8ec0aa12"
       },
       "curves": {
         "filename": "HighThermalConductivityMaterials_curves.csv.gz",
         "rows": 2638,
-        "bytes": 454837,
-        "sha256": "72d699fd4c1b46feed4f354b2b3ac2303c5da486dd222fd30a50a15f53bf5ac6"
+        "bytes": 454845,
+        "sha256": "0a765cc563d70fa9cdf2eef1bbd3231581aaf360c2653e778fbda4885bc6ac4f"
       }
     },
     "Hypermaterial": {
@@ -148,39 +148,39 @@
         "filename": "Hypermaterial_papers.csv.gz",
         "rows": 272,
         "bytes": 38839,
-        "sha256": "65be0ece8f6f2b52a135fb58cfcc318b11eb03ca7c1b45026ec3595c5e4af6e0"
+        "sha256": "d126b7a455882060bf8181b491d6b10f7bd31d4aacf8f084e2c0fd11174e865d"
       },
       "samples": {
         "filename": "Hypermaterial_samples.csv.gz",
         "rows": 1525,
-        "bytes": 62545,
-        "sha256": "18e017112adb8d59bba3849e45737b6c301933ea704075a8e4bfe8cfee1c362c"
+        "bytes": 62584,
+        "sha256": "a6be81e4a1a1ffe58a7effaecdb9ec711c53177b311550c6bde3b0354e18a7bc"
       },
       "curves": {
         "filename": "Hypermaterial_curves.csv.gz",
         "rows": 2509,
-        "bytes": 720114,
-        "sha256": "d29f8b06fb9daad408f9b15ada3431729181bcbde84f7133c8acdefed118296e"
+        "bytes": 720180,
+        "sha256": "628f507722e84fe35368252a12b313f3a05930b521a23f6938117a6be879bf5a"
       }
     },
     "LowThermalConductivityMaterials": {
       "papers": {
         "filename": "LowThermalConductivityMaterials_papers.csv.gz",
-        "rows": 274,
-        "bytes": 52321,
-        "sha256": "ea77465ad209ae1c920d30f9a3ca9b5b631daf5ed05170b17d391a9b10bf54e0"
+        "rows": 273,
+        "bytes": 52090,
+        "sha256": "5b86eb86373820022948291297868cc6bc8e9aa0ddeb50c55c311e1969e44560"
       },
       "samples": {
         "filename": "LowThermalConductivityMaterials_samples.csv.gz",
         "rows": 1649,
-        "bytes": 62413,
-        "sha256": "8ba09a2b62dd53e4014776ba7d5091a537724aea501e35d2845df64eb639218d"
+        "bytes": 62438,
+        "sha256": "c26ebbdf4460d81daa087ac2544f6ec6f6681f206a7ca6774237466244b4e0e6"
       },
       "curves": {
         "filename": "LowThermalConductivityMaterials_curves.csv.gz",
         "rows": 3518,
-        "bytes": 564419,
-        "sha256": "e5ee544162519ad81b6983846320b002c48512fa689e4f8be8b9fa6c1dce901a"
+        "bytes": 564443,
+        "sha256": "2c991668befe5eae64f28e55ea35f1b614dfbb5eb8833d19a9d8b504eeb2268a"
       }
     },
     "MagneticMaterials": {
@@ -188,19 +188,19 @@
         "filename": "MagneticMaterials_papers.csv.gz",
         "rows": 2241,
         "bytes": 417485,
-        "sha256": "3b8c3d13088b05fb6667be39d7fa05181b5aee23feb3461cb0caa0dd0e6bdc78"
+        "sha256": "f79310a11ba54bcec328118bf15efb8eec426a487ea1ecbccfc0d19b08acfc53"
       },
       "samples": {
         "filename": "MagneticMaterials_samples.csv.gz",
         "rows": 16547,
-        "bytes": 909349,
-        "sha256": "98e11668c118363217a6ba5702213751afb23d409a89f69b4c19fa61683f6dd0"
+        "bytes": 909384,
+        "sha256": "798426203479d3445e392557e61b363165d226f6a65b441ad553d19d931abe80"
       },
       "curves": {
         "filename": "MagneticMaterials_curves.csv.gz",
         "rows": 16912,
-        "bytes": 5130394,
-        "sha256": "69dcf889b068b84249dadbfb582776620b785c16bd5925bc3abb9082e8f209a2"
+        "bytes": 5130442,
+        "sha256": "e7a9dc82ef5a117f0579449c15419470c75c038dcd92f8c228e63e754b19a8e2"
       }
     },
     "OrganicThermoelectricMaterials": {
@@ -208,19 +208,19 @@
         "filename": "OrganicThermoelectricMaterials_papers.csv.gz",
         "rows": 110,
         "bytes": 35007,
-        "sha256": "7049538c420502c30182295582ccece3eb1188f03ef22c442f47271023fed1e1"
+        "sha256": "82b78e42100573934d3dccd813eabc5a4ebb37d484d6c49e7272337b7a88ccc0"
       },
       "samples": {
         "filename": "OrganicThermoelectricMaterials_samples.csv.gz",
         "rows": 922,
         "bytes": 27770,
-        "sha256": "c40d37da7a1b6c81abcda0633195c32048096ae55c0cc5dfa10079f9086a14e7"
+        "sha256": "7cb1299b89a8ac50780236f3837b3f74aa25eab251d3f61d4d75ccc8646fb13d"
       },
       "curves": {
         "filename": "OrganicThermoelectricMaterials_curves.csv.gz",
         "rows": 2521,
         "bytes": 110185,
-        "sha256": "e926e5dbedbbdca22a7a12019bd5e12dff68277c7d42a9b04031ba436b984a0d"
+        "sha256": "ee7b334daee806f3c514e1ef7e05d88f0e12909b68d1e93b8873f76861d3c295"
       }
     },
     "PiezoelectricMaterials": {
@@ -228,39 +228,39 @@
         "filename": "PiezoelectricMaterials_papers.csv.gz",
         "rows": 102,
         "bytes": 18487,
-        "sha256": "c00a36860e1fc8e093f89c526fc57f9c9560579d3e18e97106fed6a97b7a3443"
+        "sha256": "4363b44897b952ee906bf6c809b58599dfa9a597d42ea89a1f90b7d49ad7624b"
       },
       "samples": {
         "filename": "PiezoelectricMaterials_samples.csv.gz",
         "rows": 680,
-        "bytes": 17118,
-        "sha256": "8afdb80063b163389ad5e7f03ab7ddad3780e6ba8c5df0dc4decc05033859e71"
+        "bytes": 17185,
+        "sha256": "3bec7235c2cd373b112693c003c30927bbb2ed001d7ebc22eca5ffb7c1c7f544"
       },
       "curves": {
         "filename": "PiezoelectricMaterials_curves.csv.gz",
         "rows": 1036,
-        "bytes": 454421,
-        "sha256": "6b4527c4bd3000438739db0c60b699cd6fbfdf977c62ae664ebf2624494d8711"
+        "bytes": 454702,
+        "sha256": "6fcccdec38bd7b5d5318ba9e7ccf79e7650a6f70a433e3cdc9ae58527a25ded2"
       }
     },
     "Resistor": {
       "papers": {
         "filename": "Resistor_papers.csv.gz",
-        "rows": 786,
-        "bytes": 146561,
-        "sha256": "6f8f0b9cce1fd7fe898fc4932d5a0647889101751d6fc043d0fcece366eaf359"
+        "rows": 785,
+        "bytes": 146534,
+        "sha256": "b9ce8f82b70e4a96c26594b297f8ac6b1737b3e8d82c5234aedb13c113cef800"
       },
       "samples": {
         "filename": "Resistor_samples.csv.gz",
         "rows": 3776,
-        "bytes": 92388,
-        "sha256": "3b2ddf7ac36cc9b59d0bd3a3d10685f1b0962d81b50a71edf5d06ca09d31fa33"
+        "bytes": 93086,
+        "sha256": "699ea4501939641ec32f53dda50d0ae0f53c3e129d6be2eb05fe4d8ea0028a25"
       },
       "curves": {
         "filename": "Resistor_curves.csv.gz",
-        "rows": 4597,
-        "bytes": 688005,
-        "sha256": "ffa1e7c12682cdd06881f6bbdc0d61b56537ad774fbbf67ccfbf6c26d6e0b2fa"
+        "rows": 4627,
+        "bytes": 692681,
+        "sha256": "d1c29664e20b12f624bb2d665059f3d5e916620350f5388053cbcbce41db242e"
       }
     },
     "SolidStateBatteryMaterials": {
@@ -268,39 +268,39 @@
         "filename": "SolidStateBatteryMaterials_papers.csv.gz",
         "rows": 109,
         "bytes": 27247,
-        "sha256": "8ff7a7f9bc6fb6a2481cafa1d8018cefb3a2c9dc31e5cd88e289129a0fece6a7"
+        "sha256": "fdb170eb76dded42a695f0c3e7e01391c287674d35e5ec58d24096508b66dd2f"
       },
       "samples": {
         "filename": "SolidStateBatteryMaterials_samples.csv.gz",
         "rows": 967,
         "bytes": 21044,
-        "sha256": "0041fee23104c2157abeaf86ebee85b93821a3cd98860c4511c943ccaf958e74"
+        "sha256": "103413742073c82ab3f9290872c37e8f31bfe2b8593f0aebe2f8cb0653426ba1"
       },
       "curves": {
         "filename": "SolidStateBatteryMaterials_curves.csv.gz",
         "rows": 2002,
         "bytes": 395217,
-        "sha256": "ab73daf3dce4d5f5d666a9e56dfe5b8648876f3db8ab1415e2e88a08483cd365"
+        "sha256": "79a139c27786baf665f6f92ebe6a22d0c0f7692906da20e3c1ee6af358b98664"
       }
     },
     "ThermoelectricMaterials": {
       "papers": {
         "filename": "ThermoelectricMaterials_papers.csv.gz",
-        "rows": 9514,
-        "bytes": 1465926,
-        "sha256": "ba03e5a845d3a8a97ad56a3f49baea0ea72bf31f2de766b19931cc40520bac8f"
+        "rows": 9512,
+        "bytes": 1465698,
+        "sha256": "1f20326aa50d950bce54d4705313080df3f3124c67d8e51bed1dae092fb3e0f9"
       },
       "samples": {
         "filename": "ThermoelectricMaterials_samples.csv.gz",
         "rows": 55422,
-        "bytes": 2071416,
-        "sha256": "eb924bf455005afcfba4183ff20be716e03e9193423836ab7f198b8ec72c1775"
+        "bytes": 2071679,
+        "sha256": "634e3ff8484c63a1011a1ed04d951ad2fcfab7428dbbb23cabab99ae078386b5"
       },
       "curves": {
         "filename": "ThermoelectricMaterials_curves.csv.gz",
         "rows": 156708,
-        "bytes": 25324955,
-        "sha256": "4d56133678c985675a21fdf756d152c511cea3056cfd78ba35b2fd32d324369b"
+        "bytes": 25325226,
+        "sha256": "383fea30d05d0b6c01728baadaeee8e6bc69e58467c4daa9b79b0e1bcf515c9a"
       }
     }
   }
